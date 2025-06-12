@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Send GET request to Render
         run: |
-          curl -s -o /dev/null -w "%{http_code}" https://dashboard.render.com/web/srv-d156so7fte5s738s07e0/deploys/dep-d15e9dh5pdvs73f7f7mg?r=2025-06-12%4014%3A30%3A20%7E2025-06-12%4014%3A33%3A34
+          curl -s -o /dev/null -w "%{http_code}" https://ap-rgukt.onrender.com
