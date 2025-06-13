@@ -11,4 +11,4 @@ jobs:
 
     steps:
       - name: Ping Webserver
-        run: curl -s https://your-webserver-url.com
+        run: curl -s https://ap-rgukt.onrender.com
